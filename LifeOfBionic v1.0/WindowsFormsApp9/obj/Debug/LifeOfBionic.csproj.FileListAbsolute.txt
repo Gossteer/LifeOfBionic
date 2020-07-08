@@ -1,0 +1,78 @@
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\LifeOfBionic.csprojAssemblyReference.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\LifeOfBionic.csproj.GenerateResource.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\LifeOfBionic.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic v0.2\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic v0.2\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic v0.2\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic v0.2\WindowsFormsApp9\obj\Debug\LifeOfBionic.csprojAssemblyReference.cache
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic v0.2\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic v0.2\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic v0.2\WindowsFormsApp9\obj\Debug\LifeOfBionic.csproj.GenerateResource.cache
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic v0.2\WindowsFormsApp9\obj\Debug\LifeOfBionic.csproj.CoreCompileInputs.cache
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic v0.2\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic v0.2\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.3\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.3\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.3\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.3\WindowsFormsApp9\obj\Debug\LifeOfBionic.csprojAssemblyReference.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.3\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.3\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.3\WindowsFormsApp9\obj\Debug\LifeOfBionic.csproj.GenerateResource.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.3\WindowsFormsApp9\obj\Debug\LifeOfBionic.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.3\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.3\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.3\WindowsFormsApp9\bin\Debug\Regedit.dll
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.3\WindowsFormsApp9\bin\Debug\Shifrovanie.dll
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.3\WindowsFormsApp9\obj\Debug\LifeOfBionic.csproj.CopyComplete
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.5\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.5\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.5\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.5\WindowsFormsApp9\bin\Debug\Regedit.dll
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.5\WindowsFormsApp9\bin\Debug\Shifrovanie.dll
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.5\WindowsFormsApp9\obj\Debug\LifeOfBionic.csprojAssemblyReference.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.5\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.MainForm.resources
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.5\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.5\WindowsFormsApp9\obj\Debug\LifeOfBionic.csproj.GenerateResource.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.5\WindowsFormsApp9\obj\Debug\LifeOfBionic.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.5\WindowsFormsApp9\obj\Debug\LifeOfBionic.csproj.CopyComplete
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.5\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.5\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.5\WindowsFormsApp9\obj\Debug\LifeOfBionic.csproj.ResolveComReference.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.6\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.6\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.6\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.6\WindowsFormsApp9\bin\Debug\Regedit.dll
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.6\WindowsFormsApp9\bin\Debug\Shifrovanie.dll
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.6\WindowsFormsApp9\obj\Debug\LifeOfBionic.csprojAssemblyReference.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.6\WindowsFormsApp9\obj\Debug\LifeOfBionic.csproj.ResolveComReference.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.6\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.MainForm.resources
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.6\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.6\WindowsFormsApp9\obj\Debug\LifeOfBionic.csproj.GenerateResource.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.6\WindowsFormsApp9\obj\Debug\LifeOfBionic.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.6\WindowsFormsApp9\obj\Debug\LifeOfBionic.csproj.CopyComplete
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.6\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.6\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.7\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.7\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.7\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.7\WindowsFormsApp9\bin\Debug\Regedit.dll
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.7\WindowsFormsApp9\bin\Debug\Shifrovanie.dll
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.7\WindowsFormsApp9\obj\Debug\LifeOfBionic.csprojAssemblyReference.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.7\WindowsFormsApp9\obj\Debug\LifeOfBionic.csproj.ResolveComReference.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.7\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.MainForm.resources
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.7\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.7\WindowsFormsApp9\obj\Debug\LifeOfBionic.csproj.GenerateResource.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.7\WindowsFormsApp9\obj\Debug\LifeOfBionic.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.7\WindowsFormsApp9\obj\Debug\LifeOfBionic.csproj.CopyComplete
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.7\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.7\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.7\WindowsFormsApp9\bin\Debug\itextsharp.dll
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.7\WindowsFormsApp9\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Антон\Desktop\Пракика LifeOfBionic v0.7\WindowsFormsApp9\bin\Debug\itextsharp.xtra.dll

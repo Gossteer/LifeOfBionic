@@ -1,0 +1,18 @@
+use Life_of_Bionic
+go
+
+ALTER TABLE CardTreatments
+DROP COLUMN MedicalDepartament ;
+
+use Life_of_Bionic
+go
+
+ALTER TABLE writeAppointment
+ADD MedicalDepartament int NULL;
+
+
+use Life_of_Bionic
+go
+
+ALTER TABLE writeAppointment
+ADD ÑategoriesDisease VARCHAR (50) NULL;

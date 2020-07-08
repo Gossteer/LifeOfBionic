@@ -1,0 +1,30 @@
+c:\users\антон\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+c:\users\антон\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+c:\users\антон\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+c:\users\антон\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+c:\users\антон\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+c:\users\антон\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+c:\users\антон\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+c:\users\антон\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+c:\users\антон\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+c:\users\антон\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Anton-PC\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Антон\Desktop\Пракика LifeOfBionic\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
